@@ -1,4 +1,4 @@
-# DSRag_Ollama_InstructXl
+# RAG of Data Science PDFs using LangChain, Ollama, Instruct Embeddings & Faiss
 
 Created a RAG Question-Answering system through LaangChain, trained on 2 GB of Data Science, Statistics, ML, Data Analytics, Python books in the form of PDFs.
 
